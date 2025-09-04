@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello Burak!
+=======
+Hello Burak!
+>>>>>>> f37339dcc8f6ad2ecc64c8066bf95b2ee0f6a7a8
